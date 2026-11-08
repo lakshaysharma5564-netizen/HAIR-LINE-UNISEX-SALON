@@ -1,0 +1,6 @@
+{
+  "name": "Hair Line Unisex Salon",
+  "description": "The Hair Edit — A contemporary unisex hair studio and grooming destination located in Balongi, Kharar, Punjab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
